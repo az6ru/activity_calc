@@ -15,7 +15,7 @@ WATCH_RE = re.compile(r"\d+")
 def create_request(source):
     url = f"https://api-metrika.yandex.net/management/v1/counter/{COUNTER}/logrequests"
     fields = (
-        "ym:s:visitID,ym:s:clientID,ym:s:watchIDs,ym:s:dateTime,ym:s:visitDuration,ym:s:bounce"
+        "ym:s:visitID,ym:s:clientID,ym:s:watchIDs,ym:s:dateTime,ym:s:visitDuration,ym:s:bounce,ym:s:pageViews"
         if source == "visits"
         else "ym:pv:watchID,ym:pv:dateTime"
     )
@@ -153,6 +153,7 @@ if __name__ == "__main__":
             "dateTime": v["ym:s:dateTime"],
             "visitDuration": int(v["ym:s:visitDuration"]),
             "duration": format_duration(v["ym:s:visitDuration"]),
+            "pageViews": int(v["ym:s:pageViews"]),
             "active_slots": slots,
             "score": sc
         })

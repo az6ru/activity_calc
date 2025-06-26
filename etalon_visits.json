@@ -1,0 +1,2876 @@
+[
+  {
+    "visitId": "3549253190504939796",
+    "dateTime": "25.06.25 23:55:26",
+    "duration": "15:32",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3549175452929622189",
+    "dateTime": "25.06.25 23:50:29",
+    "duration": "0:50",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3549076989610295378",
+    "dateTime": "25.06.25 23:44:14",
+    "duration": "0:28",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3549018054695059723",
+    "dateTime": "25.06.25 23:40:29",
+    "duration": "0:40",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3549014560550158347",
+    "dateTime": "25.06.25 23:40:16",
+    "duration": "30:23",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3548997732321984629",
+    "dateTime": "25.06.25 23:39:11",
+    "duration": "48:54",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3548978527490539801",
+    "dateTime": "25.06.25 23:37:58",
+    "duration": "0:28",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3548934417727881501",
+    "dateTime": "25.06.25 23:35:10",
+    "duration": "42:32",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3548798638020624665",
+    "dateTime": "25.06.25 23:26:32",
+    "duration": "8:27",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548771121442586800",
+    "dateTime": "25.06.25 23:24:47",
+    "duration": "6:57",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3548687323098251549",
+    "dateTime": "25.06.25 23:19:27",
+    "duration": "2:05",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3548666433111326928",
+    "dateTime": "25.06.25 23:18:08",
+    "duration": "1:20",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548601645155483708",
+    "dateTime": "25.06.25 23:14:00",
+    "duration": "0:30",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3548595108690264349",
+    "dateTime": "25.06.25 23:13:36",
+    "duration": "1:18",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548587258865254419",
+    "dateTime": "25.06.25 23:13:06",
+    "duration": "0:23",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548556364135530777",
+    "dateTime": "25.06.25 23:11:08",
+    "duration": "0:39",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548546774864494729",
+    "dateTime": "25.06.25 23:10:31",
+    "duration": "0:16",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3548487969744355471",
+    "dateTime": "25.06.25 23:06:47",
+    "duration": "4:19",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3548450115069411494",
+    "dateTime": "25.06.25 23:04:22",
+    "duration": "1:44",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548379454223155493",
+    "dateTime": "25.06.25 22:59:53",
+    "duration": "24:44",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548353905045012653",
+    "dateTime": "25.06.25 22:58:15",
+    "duration": "2:46",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3548335913120038938",
+    "dateTime": "25.06.25 22:57:07",
+    "duration": "0:12",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3548243064524112061",
+    "dateTime": "25.06.25 22:51:13",
+    "duration": "8:01:50",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3548190193175756876",
+    "dateTime": "25.06.25 22:47:51",
+    "duration": "3:45",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548169440770654216",
+    "dateTime": "25.06.25 22:46:32",
+    "duration": "1:00",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548105231549071661",
+    "dateTime": "25.06.25 22:42:27",
+    "duration": "0:08",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548100859760738482",
+    "dateTime": "25.06.25 22:42:10",
+    "duration": "1:16",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548098517347860703",
+    "dateTime": "25.06.25 22:42:01",
+    "duration": "1:05",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548091474842222626",
+    "dateTime": "25.06.25 22:41:34",
+    "duration": "0:50",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3548081253905858728",
+    "dateTime": "25.06.25 22:40:55",
+    "duration": "1:56",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3548034619416248354",
+    "dateTime": "25.06.25 22:37:57",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3548017476394287252",
+    "dateTime": "25.06.25 22:36:52",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3547996013654704320",
+    "dateTime": "25.06.25 22:35:30",
+    "duration": "7:06",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3547889933672251408",
+    "dateTime": "25.06.25 22:28:46",
+    "duration": "0:19",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3547795215630991435",
+    "dateTime": "25.06.25 22:22:44",
+    "duration": "2:54",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3547773536409485515",
+    "dateTime": "25.06.25 22:21:22",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3547767005458202883",
+    "dateTime": "25.06.25 22:20:57",
+    "duration": "0:19",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3547763587611099397",
+    "dateTime": "25.06.25 22:20:44",
+    "duration": "0:15",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3547752028552298792",
+    "dateTime": "25.06.25 22:19:59",
+    "duration": "30:19",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3547719202658844698",
+    "dateTime": "25.06.25 22:17:54",
+    "duration": "52:55",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3547680618922639527",
+    "dateTime": "25.06.25 22:15:27",
+    "duration": "2:26",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3547680454153076958",
+    "dateTime": "25.06.25 22:15:26",
+    "duration": "0:15",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3547558729468084482",
+    "dateTime": "25.06.25 22:07:42",
+    "duration": "0:22",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3547548558688518155",
+    "dateTime": "25.06.25 22:07:03",
+    "duration": "0:10",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3547382728927477974",
+    "dateTime": "25.06.25 21:56:31",
+    "duration": "0:13",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3547303520823148857",
+    "dateTime": "25.06.25 21:51:29",
+    "duration": "0:08",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3547270279222788363",
+    "dateTime": "25.06.25 21:49:22",
+    "duration": "4:08",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3547252515207905533",
+    "dateTime": "25.06.25 21:48:14",
+    "duration": "0:28",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3547247669462171954",
+    "dateTime": "25.06.25 21:47:55",
+    "duration": "0:56",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3547223401355280714",
+    "dateTime": "25.06.25 21:46:23",
+    "duration": "3:41",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3547063274713645374",
+    "dateTime": "25.06.25 21:36:12",
+    "duration": "13:05",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3546955466393256075",
+    "dateTime": "25.06.25 21:29:21",
+    "duration": "0:12",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546950355561742559",
+    "dateTime": "25.06.25 21:29:00",
+    "duration": "0:26",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546928269262848079",
+    "dateTime": "25.06.25 21:27:37",
+    "duration": "0:01",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3546884808525480178",
+    "dateTime": "25.06.25 21:24:51",
+    "duration": "1:07",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546864633409962125",
+    "dateTime": "25.06.25 21:23:34",
+    "duration": "0:10",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546845519455191180",
+    "dateTime": "25.06.25 21:22:21",
+    "duration": "0:31",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546837752256397559",
+    "dateTime": "25.06.25 21:21:52",
+    "duration": "4:05",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3546828036791861482",
+    "dateTime": "25.06.25 21:21:15",
+    "duration": "43:19",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546810694712164586",
+    "dateTime": "25.06.25 21:20:08",
+    "duration": "0:34",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546790100462731369",
+    "dateTime": "25.06.25 21:18:50",
+    "duration": "3:34",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3546789939837665386",
+    "dateTime": "25.06.25 21:18:49",
+    "duration": "1:17",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546744258929099050",
+    "dateTime": "25.06.25 21:15:55",
+    "duration": "0:17",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546669013740814422",
+    "dateTime": "25.06.25 21:11:08",
+    "duration": "0:09",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546557256124072244",
+    "dateTime": "25.06.25 21:04:02",
+    "duration": "0:09",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546548265320972588",
+    "dateTime": "25.06.25 21:03:27",
+    "duration": "14:49",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3546486120435417209",
+    "dateTime": "25.06.25 20:59:30",
+    "duration": "3:13",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546456552290648152",
+    "dateTime": "25.06.25 20:57:38",
+    "duration": "0:16",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546436328329838655",
+    "dateTime": "25.06.25 20:56:20",
+    "duration": "4:51",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546422423661576528",
+    "dateTime": "25.06.25 20:55:27",
+    "duration": "12:05",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3546417736739192893",
+    "dateTime": "25.06.25 20:55:10",
+    "duration": "2:53",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546413076877934800",
+    "dateTime": "25.06.25 20:54:52",
+    "duration": "0:07",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3546405086880858300",
+    "dateTime": "25.06.25 20:54:21",
+    "duration": "0:10",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546399067511718136",
+    "dateTime": "25.06.25 20:53:58",
+    "duration": "4:07",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546385926414926117",
+    "dateTime": "25.06.25 20:53:08",
+    "duration": "2:06",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546366391799513415",
+    "dateTime": "25.06.25 20:51:54",
+    "duration": "2:10",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546366552118132804",
+    "dateTime": "25.06.25 20:51:54",
+    "duration": "0:33",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546361790116659249",
+    "dateTime": "25.06.25 20:51:36",
+    "duration": "2:17",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3546347639903355125",
+    "dateTime": "25.06.25 20:50:42",
+    "duration": "4:01",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546266379705909426",
+    "dateTime": "25.06.25 20:45:32",
+    "duration": "0:47",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546231716585144536",
+    "dateTime": "25.06.25 20:43:20",
+    "duration": "1:39",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546226435097886799",
+    "dateTime": "25.06.25 20:43:00",
+    "duration": "0:04",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546226014115332328",
+    "dateTime": "25.06.25 20:42:58",
+    "duration": "1:04",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3546220300783321229",
+    "dateTime": "25.06.25 20:42:36",
+    "duration": "3:08",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3546176282880376847",
+    "dateTime": "25.06.25 20:39:48",
+    "duration": "6:55",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3546101600942555165",
+    "dateTime": "25.06.25 20:35:04",
+    "duration": "0:23",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3546099830299296023",
+    "dateTime": "25.06.25 20:34:57",
+    "duration": "16:36",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3545947164464382029",
+    "dateTime": "25.06.25 20:25:14",
+    "duration": "1:33",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545811524802052178",
+    "dateTime": "25.06.25 20:16:37",
+    "duration": "0:03",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3545758143495798937",
+    "dateTime": "25.06.25 20:13:13",
+    "duration": "37:18",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545666691428253889",
+    "dateTime": "25.06.25 20:07:25",
+    "duration": "0:19",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545650276594614478",
+    "dateTime": "25.06.25 20:06:22",
+    "duration": "0:19",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3545630948348657688",
+    "dateTime": "25.06.25 20:05:08",
+    "duration": "0:26",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545619989125136571",
+    "dateTime": "25.06.25 20:04:26",
+    "duration": "0:35",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545614554706477141",
+    "dateTime": "25.06.25 20:04:06",
+    "duration": "0:02",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3545614714610647047",
+    "dateTime": "25.06.25 20:04:06",
+    "duration": "0:38",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545613724769321086",
+    "dateTime": "25.06.25 20:04:02",
+    "duration": "0:15",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545491223629791246",
+    "dateTime": "25.06.25 19:56:14",
+    "duration": "1:31",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545414887610515750",
+    "dateTime": "25.06.25 19:51:24",
+    "duration": "0:03",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3545354645626421578",
+    "dateTime": "25.06.25 19:47:34",
+    "duration": "0:09",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3545347994552631590",
+    "dateTime": "25.06.25 19:47:09",
+    "duration": "0:04",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3545293903517712700",
+    "dateTime": "25.06.25 19:43:42",
+    "duration": "18:28",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3545273050433847573",
+    "dateTime": "25.06.25 19:42:23",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3545204265482191008",
+    "dateTime": "25.06.25 19:38:01",
+    "duration": "3:03",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3545106131544965345",
+    "dateTime": "25.06.25 19:31:46",
+    "duration": "3:02",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3545099450778124468",
+    "dateTime": "25.06.25 19:31:21",
+    "duration": "11:38",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3545018366319132939",
+    "dateTime": "25.06.25 19:26:11",
+    "duration": "0:05",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3545016261223645381",
+    "dateTime": "25.06.25 19:26:03",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3544985941651751253",
+    "dateTime": "25.06.25 19:24:08",
+    "duration": "0:48",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544870939087864134",
+    "dateTime": "25.06.25 19:16:49",
+    "duration": "0:20",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544869841579278598",
+    "dateTime": "25.06.25 19:16:45",
+    "duration": "0:30",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3544862523595423879",
+    "dateTime": "25.06.25 19:16:17",
+    "duration": "0:25",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3544804534514614543",
+    "dateTime": "25.06.25 19:12:36",
+    "duration": "0:43",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544803675402404095",
+    "dateTime": "25.06.25 19:12:32",
+    "duration": "0:28",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544753326031896833",
+    "dateTime": "25.06.25 19:09:20",
+    "duration": "4:52:51",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544707418397081813",
+    "dateTime": "25.06.25 19:06:25",
+    "duration": "0:05",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3544697229039632638",
+    "dateTime": "25.06.25 19:05:46",
+    "duration": "1:14",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544686828957991047",
+    "dateTime": "25.06.25 19:05:07",
+    "duration": "8:31",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3544636686480179404",
+    "dateTime": "25.06.25 19:01:54",
+    "duration": "3:35",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3544633388168904917",
+    "dateTime": "25.06.25 19:01:43",
+    "duration": "29:39",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3544632601761808545",
+    "dateTime": "25.06.25 19:01:40",
+    "duration": "2:12",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544580246776578080",
+    "dateTime": "25.06.25 18:58:20",
+    "duration": "0:39",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544578752741900389",
+    "dateTime": "25.06.25 18:58:14",
+    "duration": "0:40",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544573227518132342",
+    "dateTime": "25.06.25 18:57:53",
+    "duration": "0:41",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3544519293994008853",
+    "dateTime": "25.06.25 18:54:28",
+    "duration": "0:13",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3544510313515450586",
+    "dateTime": "25.06.25 18:53:53",
+    "duration": "1:11",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3544469374971150346",
+    "dateTime": "25.06.25 18:51:17",
+    "duration": "2:01:54",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3544314356908687639",
+    "dateTime": "25.06.25 18:41:26",
+    "duration": "9:13",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544294656935985289",
+    "dateTime": "25.06.25 18:40:11",
+    "duration": "1:44",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544189946336641337",
+    "dateTime": "25.06.25 18:33:31",
+    "duration": "0:12",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3544137498093158718",
+    "dateTime": "25.06.25 18:30:11",
+    "duration": "3:58",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3544120368709238961",
+    "dateTime": "25.06.25 18:29:06",
+    "duration": "0:07",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3544081721146474726",
+    "dateTime": "25.06.25 18:26:37",
+    "duration": "3:55",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543957346645704842",
+    "dateTime": "25.06.25 18:18:44",
+    "duration": "0:10",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543941386721558743",
+    "dateTime": "25.06.25 18:17:43",
+    "duration": "0:45",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543934591847891193",
+    "dateTime": "25.06.25 18:17:17",
+    "duration": "4:18",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543931738799996960",
+    "dateTime": "25.06.25 18:17:06",
+    "duration": "0:05",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3543927392341065751",
+    "dateTime": "25.06.25 18:16:50",
+    "duration": "0:44",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543899047089144134",
+    "dateTime": "25.06.25 18:15:02",
+    "duration": "0:06",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543898724344004776",
+    "dateTime": "25.06.25 18:15:00",
+    "duration": "3:05",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543884282383827251",
+    "dateTime": "25.06.25 18:14:05",
+    "duration": "39:15",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543882137199181972",
+    "dateTime": "25.06.25 18:13:57",
+    "duration": "0:42",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543857260253937936",
+    "dateTime": "25.06.25 18:12:22",
+    "duration": "2:08",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3543813611133862120",
+    "dateTime": "25.06.25 18:09:36",
+    "duration": "1:28",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543813386132521307",
+    "dateTime": "25.06.25 18:09:35",
+    "duration": "1:44",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543787163321106579",
+    "dateTime": "25.06.25 18:07:55",
+    "duration": "0:23",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543773421923729741",
+    "dateTime": "25.06.25 18:07:02",
+    "duration": "0:11",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543714026690969724",
+    "dateTime": "25.06.25 18:03:16",
+    "duration": "0:45",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543678787669721349",
+    "dateTime": "25.06.25 18:01:01",
+    "duration": "6:19",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543612339266256955",
+    "dateTime": "25.06.25 17:56:48",
+    "duration": "2:24",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543575262040948815",
+    "dateTime": "25.06.25 17:54:26",
+    "duration": "20:59",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3543523195968028828",
+    "dateTime": "25.06.25 17:51:08",
+    "duration": "0:07",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543471661703757892",
+    "dateTime": "25.06.25 17:47:51",
+    "duration": "1:40",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543463689596698934",
+    "dateTime": "25.06.25 17:47:21",
+    "duration": "0:48",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543460468441481386",
+    "dateTime": "25.06.25 17:47:08",
+    "duration": "2:23",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543460101270798658",
+    "dateTime": "25.06.25 17:47:07",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3543457812975190182",
+    "dateTime": "25.06.25 17:46:58",
+    "duration": "1:34",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543421422118633777",
+    "dateTime": "25.06.25 17:44:40",
+    "duration": "6:06",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543394687252431075",
+    "dateTime": "25.06.25 17:42:58",
+    "duration": "0:21",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543369706630807881",
+    "dateTime": "25.06.25 17:41:20",
+    "duration": "0:01",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3543361990347194416",
+    "dateTime": "25.06.25 17:40:53",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3543319017543434256",
+    "dateTime": "25.06.25 17:38:09",
+    "duration": "40:27",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543286003944128560",
+    "dateTime": "25.06.25 17:36:03",
+    "duration": "0:09",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543276426658578492",
+    "dateTime": "25.06.25 17:35:26",
+    "duration": "0:05",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3543260819904004397",
+    "dateTime": "25.06.25 17:34:27",
+    "duration": "0:11",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543258561124761745",
+    "dateTime": "25.06.25 17:34:17",
+    "duration": "28:58",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543234576633561135",
+    "dateTime": "25.06.25 17:32:47",
+    "duration": "0:27",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3543167938015264925",
+    "dateTime": "25.06.25 17:28:33",
+    "duration": "0:15",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543163262772445525",
+    "dateTime": "25.06.25 17:28:15",
+    "duration": "2:08",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543155778633072669",
+    "dateTime": "25.06.25 17:27:46",
+    "duration": "8:02",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543133746950570004",
+    "dateTime": "25.06.25 17:26:22",
+    "duration": "6:26",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543108642513616969",
+    "dateTime": "25.06.25 17:24:46",
+    "duration": "0:32",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3543074120422391945",
+    "dateTime": "25.06.25 17:22:35",
+    "duration": "1:28:41",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3543060189971218549",
+    "dateTime": "25.06.25 17:21:42",
+    "duration": "16:53",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543025256663089363",
+    "dateTime": "25.06.25 17:19:28",
+    "duration": "28:53",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3543020717147947061",
+    "dateTime": "25.06.25 17:19:11",
+    "duration": "21:00",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3543005636344938776",
+    "dateTime": "25.06.25 17:18:13",
+    "duration": "1:22",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542958987689328650",
+    "dateTime": "25.06.25 17:15:15",
+    "duration": "3:11",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542917109069643875",
+    "dateTime": "25.06.25 17:12:36",
+    "duration": "11:12",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542892238682194143",
+    "dateTime": "25.06.25 17:11:01",
+    "duration": "6:06",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3542873054061003020",
+    "dateTime": "25.06.25 17:09:48",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3542765206044934428",
+    "dateTime": "25.06.25 17:02:56",
+    "duration": "4:49",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3542754271040110908",
+    "dateTime": "25.06.25 17:02:15",
+    "duration": "32:08",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542715731478839622",
+    "dateTime": "25.06.25 16:59:48",
+    "duration": "0:06",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3542683257710837902",
+    "dateTime": "25.06.25 16:57:43",
+    "duration": "11:06",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542596232669298704",
+    "dateTime": "25.06.25 16:52:12",
+    "duration": "8:00",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542580577549156403",
+    "dateTime": "25.06.25 16:51:12",
+    "duration": "39:19",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3542470537741336594",
+    "dateTime": "25.06.25 16:44:11",
+    "duration": "1:08",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542445460666450042",
+    "dateTime": "25.06.25 16:42:37",
+    "duration": "25:00",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3542380230626509113",
+    "dateTime": "25.06.25 16:38:28",
+    "duration": "16:08",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542368980430750003",
+    "dateTime": "25.06.25 16:37:45",
+    "duration": "0:53",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542332848021963061",
+    "dateTime": "25.06.25 16:35:27",
+    "duration": "1:24",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542329432387092742",
+    "dateTime": "25.06.25 16:35:14",
+    "duration": "1:05",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3542292919558078614",
+    "dateTime": "25.06.25 16:32:55",
+    "duration": "0:18",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3542287723892834355",
+    "dateTime": "25.06.25 16:32:35",
+    "duration": "0:10",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3542241986472050763",
+    "dateTime": "25.06.25 16:29:40",
+    "duration": "0:26",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542234864540713202",
+    "dateTime": "25.06.25 16:29:13",
+    "duration": "0:21",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542211514957037670",
+    "dateTime": "25.06.25 16:27:44",
+    "duration": "0:52",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542193139618152708",
+    "dateTime": "25.06.25 16:26:34",
+    "duration": "1:04",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542130322826592575",
+    "dateTime": "25.06.25 16:22:34",
+    "duration": "1:58",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3542100354985623597",
+    "dateTime": "25.06.25 16:20:40",
+    "duration": "1:08",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542081423480717321",
+    "dateTime": "25.06.25 16:19:28",
+    "duration": "0:14",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3542056349096476955",
+    "dateTime": "25.06.25 16:17:52",
+    "duration": "0:49",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3542047548470722689",
+    "dateTime": "25.06.25 16:17:19",
+    "duration": "0:05",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3542027054522827028",
+    "dateTime": "25.06.25 16:16:00",
+    "duration": "0:07",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3541982955089166413",
+    "dateTime": "25.06.25 16:13:12",
+    "duration": "0:33",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541952411779989787",
+    "dateTime": "25.06.25 16:11:16",
+    "duration": "1:38",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541941071563718984",
+    "dateTime": "25.06.25 16:10:32",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3541931301289066808",
+    "dateTime": "25.06.25 16:09:55",
+    "duration": "1:40",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541892544965115935",
+    "dateTime": "25.06.25 16:07:27",
+    "duration": "4:18",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541890826102112538",
+    "dateTime": "25.06.25 16:07:21",
+    "duration": "28:55",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541865337125863565",
+    "dateTime": "25.06.25 16:05:44",
+    "duration": "5:32",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541813603832430674",
+    "dateTime": "25.06.25 16:02:26",
+    "duration": "31:20",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541801621294416099",
+    "dateTime": "25.06.25 16:01:40",
+    "duration": "6:22",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541753712788111368",
+    "dateTime": "25.06.25 15:58:38",
+    "duration": "1:29",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541745992787820660",
+    "dateTime": "25.06.25 15:58:08",
+    "duration": "1:18",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541721856384958579",
+    "dateTime": "25.06.25 15:56:36",
+    "duration": "1:46",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541721138699698481",
+    "dateTime": "25.06.25 15:56:33",
+    "duration": "0:35",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3541718372608377180",
+    "dateTime": "25.06.25 15:56:23",
+    "duration": "2:00",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541693981255270588",
+    "dateTime": "25.06.25 15:54:50",
+    "duration": "0:15",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541694091737694480",
+    "dateTime": "25.06.25 15:54:50",
+    "duration": "2:08",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541688691738280278",
+    "dateTime": "25.06.25 15:54:30",
+    "duration": "1:13",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541685852713255117",
+    "dateTime": "25.06.25 15:54:19",
+    "duration": "2:07",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541645197332709688",
+    "dateTime": "25.06.25 15:51:44",
+    "duration": "0:09",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541627437138575676",
+    "dateTime": "25.06.25 15:50:35",
+    "duration": "0:19",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3541626947499982864",
+    "dateTime": "25.06.25 15:50:34",
+    "duration": "1:01:44",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3541608329983033548",
+    "dateTime": "25.06.25 15:49:23",
+    "duration": "11:06",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541590997939257568",
+    "dateTime": "25.06.25 15:48:17",
+    "duration": "33:55",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541579262014259258",
+    "dateTime": "25.06.25 15:47:32",
+    "duration": "1:14:49",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541520976037543942",
+    "dateTime": "25.06.25 15:43:49",
+    "duration": "0:18",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3541518769299390654",
+    "dateTime": "25.06.25 15:43:41",
+    "duration": "14:06",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541501901004341441",
+    "dateTime": "25.06.25 15:42:36",
+    "duration": "2:38",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541468744507195728",
+    "dateTime": "25.06.25 15:40:31",
+    "duration": "12:00",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541450741278310410",
+    "dateTime": "25.06.25 15:39:22",
+    "duration": "0:24",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3541442824844869870",
+    "dateTime": "25.06.25 15:38:52",
+    "duration": "2:34:11",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541437084148432928",
+    "dateTime": "25.06.25 15:38:30",
+    "duration": "8:53",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3541385680050192461",
+    "dateTime": "25.06.25 15:35:14",
+    "duration": "3:44",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541383846876938343",
+    "dateTime": "25.06.25 15:35:07",
+    "duration": "0:58",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541351727151972371",
+    "dateTime": "25.06.25 15:33:04",
+    "duration": "0:33",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541299286747906078",
+    "dateTime": "25.06.25 15:29:43",
+    "duration": "1:17",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541291073420918978",
+    "dateTime": "25.06.25 15:29:13",
+    "duration": "3:58",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541284525351108774",
+    "dateTime": "25.06.25 15:28:48",
+    "duration": "27:46",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541253202381373559",
+    "dateTime": "25.06.25 15:26:48",
+    "duration": "5:14",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3541248921638797611",
+    "dateTime": "25.06.25 15:26:32",
+    "duration": "24:20",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3541245266481643784",
+    "dateTime": "25.06.25 15:26:18",
+    "duration": "5:30",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3541217124313727153",
+    "dateTime": "25.06.25 15:24:31",
+    "duration": "0:53",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3541185134372585589",
+    "dateTime": "25.06.25 15:22:29",
+    "duration": "9:54",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541159249073143883",
+    "dateTime": "25.06.25 15:20:50",
+    "duration": "1:53",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541140317733912683",
+    "dateTime": "25.06.25 15:19:38",
+    "duration": "2:56",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3541036490054959117",
+    "dateTime": "25.06.25 15:13:02",
+    "duration": "0:12",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540983026497355788",
+    "dateTime": "25.06.25 15:09:38",
+    "duration": "0:18",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540981250504786228",
+    "dateTime": "25.06.25 15:09:31",
+    "duration": "3:11:12",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3540980357842600263",
+    "dateTime": "25.06.25 15:09:28",
+    "duration": "0:52",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540948566575153157",
+    "dateTime": "25.06.25 15:07:26",
+    "duration": "0:40",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540933895405437036",
+    "dateTime": "25.06.25 15:06:30",
+    "duration": "5:35",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540921124968464591",
+    "dateTime": "25.06.25 15:05:42",
+    "duration": "3:22",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3540888739101016224",
+    "dateTime": "25.06.25 15:03:38",
+    "duration": "1:26",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540873664729448541",
+    "dateTime": "25.06.25 15:02:41",
+    "duration": "0:05",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3540856846944043289",
+    "dateTime": "25.06.25 15:01:36",
+    "duration": "0:17",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3540847440326820058",
+    "dateTime": "25.06.25 15:01:01",
+    "duration": "1:33",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540836774027198639",
+    "dateTime": "25.06.25 15:00:20",
+    "duration": "0:48",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3540826571267113075",
+    "dateTime": "25.06.25 14:59:41",
+    "duration": "9:21",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540802235095842867",
+    "dateTime": "25.06.25 14:58:08",
+    "duration": "0:55",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3540783789933068320",
+    "dateTime": "25.06.25 14:56:58",
+    "duration": "0:04",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3540778108316024918",
+    "dateTime": "25.06.25 14:56:35",
+    "duration": "0:01",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3540755096665587975",
+    "dateTime": "25.06.25 14:55:08",
+    "duration": "16:49",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3540727063670685976",
+    "dateTime": "25.06.25 14:53:21",
+    "duration": "0:06",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3540691299558228199",
+    "dateTime": "25.06.25 14:51:05",
+    "duration": "1:32",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540680046366425104",
+    "dateTime": "25.06.25 14:50:22",
+    "duration": "4:55",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540676851949895898",
+    "dateTime": "25.06.25 14:50:10",
+    "duration": "0:52",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540656090436862088",
+    "dateTime": "25.06.25 14:48:51",
+    "duration": "2:21",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540634753183514924",
+    "dateTime": "25.06.25 14:47:29",
+    "duration": "0:10",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3540586647722131568",
+    "dateTime": "25.06.25 14:44:26",
+    "duration": "31:18",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3540570728566882629",
+    "dateTime": "25.06.25 14:43:25",
+    "duration": "4:03",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3540540599458594975",
+    "dateTime": "25.06.25 14:41:30",
+    "duration": "0:50",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3540519943330595122",
+    "dateTime": "25.06.25 14:40:11",
+    "duration": "2:37",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540516949338620074",
+    "dateTime": "25.06.25 14:39:59",
+    "duration": "16:13",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3540418823717650722",
+    "dateTime": "25.06.25 14:33:46",
+    "duration": "0:55",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3540386891167695035",
+    "dateTime": "25.06.25 14:31:44",
+    "duration": "1:17",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3540376579681812523",
+    "dateTime": "25.06.25 14:31:04",
+    "duration": "0:09",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3540368850241454153",
+    "dateTime": "25.06.25 14:30:35",
+    "duration": "1:44",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540364944169500878",
+    "dateTime": "25.06.25 14:30:20",
+    "duration": "1:43",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540358653958160512",
+    "dateTime": "25.06.25 14:29:56",
+    "duration": "39:54",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3540346556991930645",
+    "dateTime": "25.06.25 14:29:10",
+    "duration": "0:29",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540332115775979565",
+    "dateTime": "25.06.25 14:28:15",
+    "duration": "0:21",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540322070969974913",
+    "dateTime": "25.06.25 14:27:36",
+    "duration": "9:16",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3540271238378684732",
+    "dateTime": "25.06.25 14:24:23",
+    "duration": "1:23:10",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3540223439141863649",
+    "dateTime": "25.06.25 14:21:20",
+    "duration": "0:00",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540114113071939747",
+    "dateTime": "25.06.25 14:14:23",
+    "duration": "0:52",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540088189068771527",
+    "dateTime": "25.06.25 14:12:44",
+    "duration": "1:15",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3540077187868393476",
+    "dateTime": "25.06.25 14:12:02",
+    "duration": "5:32",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539985599348605216",
+    "dateTime": "25.06.25 14:06:13",
+    "duration": "0:59",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539951410671517976",
+    "dateTime": "25.06.25 14:04:02",
+    "duration": "1:46:33",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3539872998610174180",
+    "dateTime": "25.06.25 13:59:03",
+    "duration": "0:34",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539824703902842994",
+    "dateTime": "25.06.25 13:55:59",
+    "duration": "5:37",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539790106139558088",
+    "dateTime": "25.06.25 13:53:47",
+    "duration": "3:14",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539747704649023679",
+    "dateTime": "25.06.25 13:51:03",
+    "duration": "0:08",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3539695660644958239",
+    "dateTime": "25.06.25 13:47:47",
+    "duration": "0:21",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539693153677476052",
+    "dateTime": "25.06.25 13:47:37",
+    "duration": "1:20",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539667684829954388",
+    "dateTime": "25.06.25 13:46:00",
+    "duration": "0:52",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539648810200858810",
+    "dateTime": "25.06.25 13:44:48",
+    "duration": "9:27",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539573601728200957",
+    "dateTime": "25.06.25 13:40:01",
+    "duration": "1:45",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539559839270961177",
+    "dateTime": "25.06.25 13:39:09",
+    "duration": "0:27",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539492221612458192",
+    "dateTime": "25.06.25 13:34:51",
+    "duration": "0:03",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3539437887664947313",
+    "dateTime": "25.06.25 13:31:23",
+    "duration": "41:23",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3539429258446241921",
+    "dateTime": "25.06.25 13:30:51",
+    "duration": "2:36",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539423447589060796",
+    "dateTime": "25.06.25 13:30:28",
+    "duration": "0:16",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539397069107626011",
+    "dateTime": "25.06.25 13:28:48",
+    "duration": "1:24:32",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539367030682288133",
+    "dateTime": "25.06.25 13:26:52",
+    "duration": "1:06",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539337859470459209",
+    "dateTime": "25.06.25 13:25:02",
+    "duration": "3:20",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3539293159473545459",
+    "dateTime": "25.06.25 13:22:11",
+    "duration": "4:54:54",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3539283623872823453",
+    "dateTime": "25.06.25 13:21:35",
+    "duration": "6:37",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539261124183064682",
+    "dateTime": "25.06.25 13:20:09",
+    "duration": "3:58",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539189588900446377",
+    "dateTime": "25.06.25 13:15:36",
+    "duration": "29:55",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539174418461491366",
+    "dateTime": "25.06.25 13:14:38",
+    "duration": "0:13",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3539087307759943905",
+    "dateTime": "25.06.25 13:09:05",
+    "duration": "12:51",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3539024388328521809",
+    "dateTime": "25.06.25 13:05:06",
+    "duration": "0:19",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538994133875556362",
+    "dateTime": "25.06.25 13:03:11",
+    "duration": "4:39:38",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3538988236738658364",
+    "dateTime": "25.06.25 13:02:48",
+    "duration": "0:01",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3538912941784432958",
+    "dateTime": "25.06.25 12:58:01",
+    "duration": "0:14",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3538909268363444264",
+    "dateTime": "25.06.25 12:57:47",
+    "duration": "1:36",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538906338512339085",
+    "dateTime": "25.06.25 12:57:36",
+    "duration": "0:33",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538874994389942602",
+    "dateTime": "25.06.25 12:55:36",
+    "duration": "3:06",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3538793400739299646",
+    "dateTime": "25.06.25 12:50:25",
+    "duration": "1:40",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538789438477041757",
+    "dateTime": "25.06.25 12:50:10",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3538688279277469810",
+    "dateTime": "25.06.25 12:43:44",
+    "duration": "0:07",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3538682014990598175",
+    "dateTime": "25.06.25 12:43:20",
+    "duration": "2:20",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538648932154081594",
+    "dateTime": "25.06.25 12:41:14",
+    "duration": "0:21",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538626216092762186",
+    "dateTime": "25.06.25 12:39:47",
+    "duration": "1:29",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538611817793716328",
+    "dateTime": "25.06.25 12:38:52",
+    "duration": "14:30",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538565493088321537",
+    "dateTime": "25.06.25 12:35:56",
+    "duration": "0:17",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538498217991995410",
+    "dateTime": "25.06.25 12:31:39",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3538475785226289162",
+    "dateTime": "25.06.25 12:30:13",
+    "duration": "0:57",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538451716159570222",
+    "dateTime": "25.06.25 12:28:42",
+    "duration": "0:25",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3538325678124171608",
+    "dateTime": "25.06.25 12:20:41",
+    "duration": "3:31",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538310294106013914",
+    "dateTime": "25.06.25 12:19:42",
+    "duration": "0:58",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3538289854189666438",
+    "dateTime": "25.06.25 12:18:24",
+    "duration": "1:41",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538096636564340970",
+    "dateTime": "25.06.25 12:06:07",
+    "duration": "0:31",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3538032345734709303",
+    "dateTime": "25.06.25 12:02:02",
+    "duration": "0:40",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537923074807038038",
+    "dateTime": "25.06.25 11:55:05",
+    "duration": "0:49",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537910189232488625",
+    "dateTime": "25.06.25 11:54:16",
+    "duration": "2:12",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537855041479639320",
+    "dateTime": "25.06.25 11:50:45",
+    "duration": "30:14",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3537824095029166280",
+    "dateTime": "25.06.25 11:48:47",
+    "duration": "17:59",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537729922019885177",
+    "dateTime": "25.06.25 11:42:48",
+    "duration": "3:30",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3537693881167249737",
+    "dateTime": "25.06.25 11:40:31",
+    "duration": "0:09",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3537684489815982110",
+    "dateTime": "25.06.25 11:39:55",
+    "duration": "3:06",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3537670871614488658",
+    "dateTime": "25.06.25 11:39:03",
+    "duration": "1:41",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537647041223852101",
+    "dateTime": "25.06.25 11:37:32",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3537644969384738889",
+    "dateTime": "25.06.25 11:37:24",
+    "duration": "1:31:50",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537498418249728279",
+    "dateTime": "25.06.25 11:28:05",
+    "duration": "15:25",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3537453718302884040",
+    "dateTime": "25.06.25 11:25:14",
+    "duration": "1:39:40",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537386010051346566",
+    "dateTime": "25.06.25 11:20:56",
+    "duration": "15:03",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537356407071309825",
+    "dateTime": "25.06.25 11:19:03",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3537337935692300561",
+    "dateTime": "25.06.25 11:17:53",
+    "duration": "6:43",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3537332477848191116",
+    "dateTime": "25.06.25 11:17:32",
+    "duration": "0:03",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3537302190054965440",
+    "dateTime": "25.06.25 11:15:36",
+    "duration": "1:37",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3537236550848610310",
+    "dateTime": "25.06.25 11:11:26",
+    "duration": "22:30",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3537204734231314533",
+    "dateTime": "25.06.25 11:09:25",
+    "duration": "1:09",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3537146095218720954",
+    "dateTime": "25.06.25 11:05:41",
+    "duration": "1:22",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3537085444624744512",
+    "dateTime": "25.06.25 11:01:50",
+    "duration": "0:03",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3537034249415950616",
+    "dateTime": "25.06.25 10:58:34",
+    "duration": "3:05:56",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3536938211297198379",
+    "dateTime": "25.06.25 10:52:28",
+    "duration": "29:14",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3536762913234878811",
+    "dateTime": "25.06.25 10:41:19",
+    "duration": "1:51:25",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3536651526983123018",
+    "dateTime": "25.06.25 10:34:14",
+    "duration": "10:47",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3536569168100852008",
+    "dateTime": "25.06.25 10:28:59",
+    "duration": "0:54",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3536504605446242574",
+    "dateTime": "25.06.25 10:24:54",
+    "duration": "0:04",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3536398296779850008",
+    "dateTime": "25.06.25 10:18:07",
+    "duration": "29:37",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3536321519744188666",
+    "dateTime": "25.06.25 10:13:16",
+    "duration": "49:06",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3536203615975768066",
+    "dateTime": "25.06.25 10:05:46",
+    "duration": "0:12",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3536133606139232449",
+    "dateTime": "25.06.25 10:01:19",
+    "duration": "1:13",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3536110459786625259",
+    "dateTime": "25.06.25 09:59:50",
+    "duration": "0:07",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3535714076353888333",
+    "dateTime": "25.06.25 09:34:38",
+    "duration": "0:09",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3535651142001492203",
+    "dateTime": "25.06.25 09:30:38",
+    "duration": "2:40",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3535537021378625728",
+    "dateTime": "25.06.25 09:23:23",
+    "duration": "0:07",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3535502885535875122",
+    "dateTime": "25.06.25 09:21:13",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3535290658711666976",
+    "dateTime": "25.06.25 09:07:43",
+    "duration": "1:06",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3535082971333919009",
+    "dateTime": "25.06.25 08:54:31",
+    "duration": "0:08",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3535067906077622425",
+    "dateTime": "25.06.25 08:53:33",
+    "duration": "0:50",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3534530677835825475",
+    "dateTime": "25.06.25 08:19:24",
+    "duration": "0:29",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3534214601399337031",
+    "dateTime": "25.06.25 07:59:18",
+    "duration": "2:04",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3534018773138014361",
+    "dateTime": "25.06.25 07:46:51",
+    "duration": "0:07",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3533780085359509563",
+    "dateTime": "25.06.25 07:31:41",
+    "duration": "8:04",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3533235377068834965",
+    "dateTime": "25.06.25 06:57:03",
+    "duration": "4:11",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3533199500238389277",
+    "dateTime": "25.06.25 06:54:46",
+    "duration": "23:26",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3533180943012200546",
+    "dateTime": "25.06.25 06:53:35",
+    "duration": "0:09",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3533020701272572115",
+    "dateTime": "25.06.25 06:43:24",
+    "duration": "0:46",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3532790400014352685",
+    "dateTime": "25.06.25 06:28:45",
+    "duration": "3:28",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3532698617801081096",
+    "dateTime": "25.06.25 06:22:55",
+    "duration": "4:08",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3532697922919203051",
+    "dateTime": "25.06.25 06:22:53",
+    "duration": "0:15",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3532669286529892665",
+    "dateTime": "25.06.25 06:21:03",
+    "duration": "0:14",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3532602000890134563",
+    "dateTime": "25.06.25 06:16:47",
+    "duration": "0:54",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3532439167778947103",
+    "dateTime": "25.06.25 06:06:26",
+    "duration": "0:08",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3532364628413644902",
+    "dateTime": "25.06.25 06:01:41",
+    "duration": "0:51",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3532184615526072509",
+    "dateTime": "25.06.25 05:50:14",
+    "duration": "0:25",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3532173509672829276",
+    "dateTime": "25.06.25 05:49:32",
+    "duration": "1:21",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3532056570260357362",
+    "dateTime": "25.06.25 05:42:06",
+    "duration": "3:55",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3531918303919603766",
+    "dateTime": "25.06.25 05:33:19",
+    "duration": "0:08",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3531843958897115470",
+    "dateTime": "25.06.25 05:28:34",
+    "duration": "0:55",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3531714002714361944",
+    "dateTime": "25.06.25 05:20:19",
+    "duration": "0:24",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3531713063972765870",
+    "dateTime": "25.06.25 05:20:16",
+    "duration": "0:42",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3531712098661564756",
+    "dateTime": "25.06.25 05:20:12",
+    "duration": "0:41",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3531660603311521856",
+    "dateTime": "25.06.25 05:16:56",
+    "duration": "0:12",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3531593534153949376",
+    "dateTime": "25.06.25 05:12:40",
+    "duration": "0:09",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3531240653035929764",
+    "dateTime": "25.06.25 04:50:14",
+    "duration": "0:55",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3531195432108556369",
+    "dateTime": "25.06.25 04:47:21",
+    "duration": "2:02",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3531071853366083784",
+    "dateTime": "25.06.25 04:39:30",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3531039583768936746",
+    "dateTime": "25.06.25 04:37:27",
+    "duration": "1:18",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3531032643992551533",
+    "dateTime": "25.06.25 04:37:00",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3530973193768009744",
+    "dateTime": "25.06.25 04:33:13",
+    "duration": "0:07",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3530701387411751000",
+    "dateTime": "25.06.25 04:15:56",
+    "duration": "0:29",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3530676173177618490",
+    "dateTime": "25.06.25 04:14:19",
+    "duration": "0:47",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3530668810490085445",
+    "dateTime": "25.06.25 04:13:52",
+    "duration": "0:02",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3530582001230020812",
+    "dateTime": "25.06.25 04:08:21",
+    "duration": "1:53:45",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3530458486021554353",
+    "dateTime": "25.06.25 04:00:30",
+    "duration": "0:08",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3530339894961635432",
+    "dateTime": "25.06.25 03:52:57",
+    "duration": "0:28",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3530264840070234427",
+    "dateTime": "25.06.25 03:48:10",
+    "duration": "2:12",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3530247932844703967",
+    "dateTime": "25.06.25 03:47:07",
+    "duration": "2:14",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3530217423077114081",
+    "dateTime": "25.06.25 03:45:10",
+    "duration": "10:30",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3530061327067512888",
+    "dateTime": "25.06.25 03:35:15",
+    "duration": "0:56",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3529890771335643327",
+    "dateTime": "25.06.25 03:24:24",
+    "duration": "0:07",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3529741935674917053",
+    "dateTime": "25.06.25 03:14:56",
+    "duration": "0:05",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3529732491361910944",
+    "dateTime": "25.06.25 03:14:20",
+    "duration": "1:35",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3529713440812957954",
+    "dateTime": "25.06.25 03:13:07",
+    "duration": "0:19",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3529658959719563472",
+    "dateTime": "25.06.25 03:09:40",
+    "duration": "0:15",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3529645577392095424",
+    "dateTime": "25.06.25 03:08:49",
+    "duration": "0:46",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3529643264196477272",
+    "dateTime": "25.06.25 03:08:40",
+    "duration": "15:29",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3529553177921716424",
+    "dateTime": "25.06.25 03:02:56",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3529532165145231564",
+    "dateTime": "25.06.25 03:01:36",
+    "duration": "1:48",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3529468641292845326",
+    "dateTime": "25.06.25 02:57:34",
+    "duration": "2:24",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3529386938829635744",
+    "dateTime": "25.06.25 02:52:21",
+    "duration": "0:38",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3529366401447887124",
+    "dateTime": "25.06.25 02:51:04",
+    "duration": "0:23",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3529339819900272680",
+    "dateTime": "25.06.25 02:49:22",
+    "duration": "40:24",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3529236015439675673",
+    "dateTime": "25.06.25 02:42:46",
+    "duration": "18:21",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3529106512282910858",
+    "dateTime": "25.06.25 02:34:32",
+    "duration": "0:09",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3529025120879247394",
+    "dateTime": "25.06.25 02:29:22",
+    "duration": "0:27",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3529006624612286516",
+    "dateTime": "25.06.25 02:28:11",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3528976960773685328",
+    "dateTime": "25.06.25 02:26:18",
+    "duration": "3:21",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3528970763191451774",
+    "dateTime": "25.06.25 02:25:55",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3528910742770417879",
+    "dateTime": "25.06.25 02:22:06",
+    "duration": "32:55",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3528903826273730804",
+    "dateTime": "25.06.25 02:21:39",
+    "duration": "2:56",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3528769129142026344",
+    "dateTime": "25.06.25 02:13:05",
+    "duration": "5:53",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3528713594230538482",
+    "dateTime": "25.06.25 02:09:34",
+    "duration": "45:12",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3528708266643947584",
+    "dateTime": "25.06.25 02:09:13",
+    "duration": "0:11",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3528683584751927644",
+    "dateTime": "25.06.25 02:07:39",
+    "duration": "14:58",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3528668515881713727",
+    "dateTime": "25.06.25 02:06:42",
+    "duration": "0:07",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3528622333263348038",
+    "dateTime": "25.06.25 02:03:45",
+    "duration": "0:07",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3528621513915236538",
+    "dateTime": "25.06.25 02:03:42",
+    "duration": "0:15",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3528480635876540525",
+    "dateTime": "25.06.25 01:54:45",
+    "duration": "1:18",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3528476624398319882",
+    "dateTime": "25.06.25 01:54:30",
+    "duration": "0:13",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3528442810464207144",
+    "dateTime": "25.06.25 01:52:21",
+    "duration": "3:34",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3528374581034221677",
+    "dateTime": "25.06.25 01:48:00",
+    "duration": "0:03",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3528338303916966193",
+    "dateTime": "25.06.25 01:45:42",
+    "duration": "0:05",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3528289303631495447",
+    "dateTime": "25.06.25 01:42:35",
+    "duration": "1:23:59",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3527977410901573638",
+    "dateTime": "25.06.25 01:22:45",
+    "duration": "0:08",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3527950371765354575",
+    "dateTime": "25.06.25 01:21:02",
+    "duration": "13:11",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3527899789518700738",
+    "dateTime": "25.06.25 01:17:48",
+    "duration": "11:59",
+    "activityLevel": 5
+  },
+  {
+    "visitId": "3527820671904383078",
+    "dateTime": "25.06.25 01:12:47",
+    "duration": "4:24",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3527806378333962261",
+    "dateTime": "25.06.25 01:11:53",
+    "duration": "1:44",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3527791141492621334",
+    "dateTime": "25.06.25 01:10:55",
+    "duration": "0:08",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3527767432160084019",
+    "dateTime": "25.06.25 01:09:24",
+    "duration": "1:26",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3527737936855433484",
+    "dateTime": "25.06.25 01:07:32",
+    "duration": "1:27",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3527601571574317208",
+    "dateTime": "25.06.25 00:58:52",
+    "duration": "0:04",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3527532889676447751",
+    "dateTime": "25.06.25 00:54:30",
+    "duration": "0:06",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3527531772769468472",
+    "dateTime": "25.06.25 00:54:25",
+    "duration": "0:20",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3527464323277390126",
+    "dateTime": "25.06.25 00:50:08",
+    "duration": "0:53",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3527410675201343643",
+    "dateTime": "25.06.25 00:46:43",
+    "duration": "0:30",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3527324307285868731",
+    "dateTime": "25.06.25 00:41:14",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3527297854366810127",
+    "dateTime": "25.06.25 00:39:33",
+    "duration": "0:16",
+    "activityLevel": 2
+  },
+  {
+    "visitId": "3527264989742628959",
+    "dateTime": "25.06.25 00:37:28",
+    "duration": "0:23",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3527185340050964571",
+    "dateTime": "25.06.25 00:32:24",
+    "duration": "0:00",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3527155491750281300",
+    "dateTime": "25.06.25 00:30:30",
+    "duration": "0:01",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3527075597856538634",
+    "dateTime": "25.06.25 00:25:25",
+    "duration": "0:03",
+    "activityLevel": 1
+  },
+  {
+    "visitId": "3527057775511994476",
+    "dateTime": "25.06.25 00:24:17",
+    "duration": "0:59",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3527046627634970664",
+    "dateTime": "25.06.25 00:23:35",
+    "duration": "5:05",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3527021319247888469",
+    "dateTime": "25.06.25 00:21:57",
+    "duration": "2:20",
+    "activityLevel": 4
+  },
+  {
+    "visitId": "3526996213188788510",
+    "dateTime": "25.06.25 00:20:20",
+    "duration": "11:37",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3526984579532718358",
+    "dateTime": "25.06.25 00:19:38",
+    "duration": "47:29",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3526928039131742269",
+    "dateTime": "25.06.25 00:16:02",
+    "duration": "1:27",
+    "activityLevel": 3
+  },
+  {
+    "visitId": "3526687706443939956",
+    "dateTime": "25.06.25 00:00:45",
+    "duration": "32:00",
+    "activityLevel": 4
+  }
+]
